@@ -1,1 +1,1 @@
-# PRO-C164-Teacher-Actitvity
+# PRO-C164-Teacher-Activity
